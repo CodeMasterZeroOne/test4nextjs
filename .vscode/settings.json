@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/990f8786-3763-4f92-a8a9-fd68c8634605/resourceGroups/test4nextjs/providers/Microsoft.Web/sites/test4nextjs",
+    "appService.deploySubpath": "."
+}
